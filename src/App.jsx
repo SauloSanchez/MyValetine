@@ -460,7 +460,7 @@ export default function App() {
               <h1 className="card-title">
                 <span className="title-line-1">Will You Be My</span>
                 <span className="title-line-2">Valentine</span>
-                <span className="title-line-3">Vianney?</span>
+                <span className="title-line-3">Vianney, My Future Wife?</span>
               </h1>
 
               <div className="card-divider">
@@ -514,7 +514,7 @@ export default function App() {
         <div className="celebration-scene fade-in-up">
           <div className="celebration-header">
             <Heart size={36} color="#ff6b8a" className="pulse-heart" />
-            <h1 className="celebration-title">She Said Yes!</h1>
+            <h1 className="celebration-title">You Said Yes!</h1>
             <Heart size={36} color="#ff6b8a" className="pulse-heart" />
           </div>
           <p className="celebration-subtitle">
